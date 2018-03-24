@@ -1,0 +1,9 @@
+[submodule "components/esp-ili9341"]
+	path = components/esp-ili9341
+	url = https://github.com/inxonic/esp-ili9341.git
+[submodule "components/esp-mcufont"]
+	path = components/esp-mcufont
+	url = https://github.com/inxonic/esp-mcufont.git
+[submodule "components/esp-QR-Code-generator"]
+	path = components/esp-QR-Code-generator
+	url = https://github.com/inxonic/esp-QR-Code-generator
